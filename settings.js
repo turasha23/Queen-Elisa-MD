@@ -32,28 +32,54 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
+global.owner = ['94770458503'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['9470458503'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94770458503'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'OSADA BRO' // Your name ඔබේ නම 
+global.botnma = 'OSADA BRO' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'OSADA BRO' //ownernama,ownername
+global.packname = 'OSADA BRO' // Sticker package name 
 global.author = 'Dark Maker' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
+global.alive =`┏━━━━━°☛•°:❎OSADA BRO SL CYB⃟ER™彡 ❎:°•☚°━━━━━┓*
+
+ꦖBOT IS ONLINE ᳆⃟
+
+======================                                                       =❌NO SPAM
+=❌NO DDOS                                                                                                                              =❌NO TORRENT
+=❌NO OVER DOWNLOAD                                                          =❌NO MULTILOGIN
+===============
+
+
+⭕group link 1 https://chat.whatsapp.com/HGnyLWxCtIo9vOIrBrAS1O
+
+
+⭕group link 2 https://chat.whatsapp.com/KmWb9N0x6sR1902aqyz9PF
+
+꧁My Whatsapp Number꧂
+
+http://wa.me//+94752088386
+
+http://wa.me//+94770458503
+
+http://wa.me//+94776946420
+
+http://wa.me//+234706892050
+
+
+➳̶̶̶᭄➤🅞🅢🅐🅓🅐 🅑🅡🅞 ᴹᵞ٭͢ᴸᴵᶠᴱ⃝⃯
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 Thanks Fro Joing Our group
 ✾ Some bugs fixing
-😼♥️
+➸ ALL COMAND  = .menu
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
